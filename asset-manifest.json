@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Riteshswmai/static/css/main.ae42a062.css",
+    "main.js": "/Riteshswmai/static/js/main.b4c27cf0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Riteshswmai/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Riteshswmai/index.html",
+    "main.ae42a062.css.map": "/Riteshswmai/static/css/main.ae42a062.css.map",
+    "main.b4c27cf0.js.map": "/Riteshswmai/static/js/main.b4c27cf0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Riteshswmai/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42a062.css",
+    "static/js/main.b4c27cf0.js"
+  ]
+}
